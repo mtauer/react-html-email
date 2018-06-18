@@ -1,5 +1,5 @@
 {
-  "name": "react-html-email",
+  "name": "react-html-email-browsers",
   "description": "Note: This version is the same as 'react-html-email'. It just includes a fix for browser support using babel-preset-env.",
   "version": "2.0.1",
   "keywords": [
@@ -21,7 +21,7 @@
     "prepare": "npm run compile"
   },
   "main": "lib/index.js",
-  "repository": "chromakode/react-html-email",
+  "repository": "mtauer/react-html-email",
   "devDependencies": {
     "babel-cli": "~6.26.0",
     "babel-eslint": "~8.0.0",
